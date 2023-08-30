@@ -133,11 +133,4 @@
   
 #### 4.6. Риски  
   
-- Описание рисков и неопределенностей, которые стоит предусмотреть `Data Scientist`   
-  
-> ### Материалы для дополнительного погружения в тему  
-> - [Шаблон ML System Design Doc [EN] от AWS](https://github.com/eugeneyan/ml-design-docs) и [статья](https://eugeneyan.com/writing/ml-design-docs/) с объяснением каждого раздела  
-> - [Верхнеуровневый шаблон ML System Design Doc от Google](https://towardsdatascience.com/the-undeniable-importance-of-design-docs-to-data-scientists-421132561f3c) и [описание общих принципов его заполнения](https://towardsdatascience.com/understanding-design-docs-principles-for-achieving-data-scientists-53e6d5ad6f7e).
-> - [ML Design Template](https://www.mle-interviews.com/ml-design-template) от ML Engineering Interviews  
-> - Статья [Design Documents for ML Models](https://medium.com/people-ai-engineering/design-documents-for-ml-models-bbcd30402ff7) на Medium. Верхнеуровневые рекомендации по содержанию дизайн-документа и объяснение, зачем он вообще нужен  
-> - [Краткий Canvas для ML-проекта от Made with ML](https://madewithml.com/courses/mlops/design/#timeline). Подходит для верхнеуровневого описания идеи, чтобы понять, имеет ли смысл идти дальше.  
+- Описание рисков и неопределенностей, которые стоит предусмотреть `Data Scientist`  
